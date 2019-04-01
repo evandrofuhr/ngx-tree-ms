@@ -7,11 +7,10 @@
       "app",
       "camelCase"
     ],
-    "component-selector": [
-      true,
-      "element",
-      "app",
-      "kebab-case"
-    ]
+    "variable-name": false,
+    "whitespace": false,
+    "no-redundant-jsdoc": false,
+    "max-line-length": false,
+    "component-selector": false,
   }
 }
